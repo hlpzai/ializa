@@ -1,0 +1,23 @@
+# ⚙️ Config & environment variables  
+.env_variables.json  
+.env_shell.json  
+
+# 🍏 System files  
+.DS_Store  
+
+# 🐍 Python cache & compiled files  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+
+# 🛠️ Virtual environment (if using venv)  
+venv/  
+
+# 📝 Log files  
+*.log  
+
+# 🏗️ Auto-generated build files  
+build/  
+dist/  
+*.egg-info/  
